@@ -193,15 +193,10 @@ Open [https://aerolink-riz.vercel.app/](https://aerolink-riz.vercel.app/) and st
 - **🔒 Enterprise Security** - Banking-grade security measures
 - **⚡ Performance Optimized** - Scalable architecture design
 
-## 📜 License
-
-Licensed under MIT License - see [LICENSE](LICENSE) for details.
-
 ## 🙏 Acknowledgments
 
 - Healthcare professionals who inspired this platform
 - Drone technology pioneers advancing UAV capabilities
-- Open-source community enabling innovation
 - Medical institutions trusting our technology
 
 ## 📞 Contact & Support
